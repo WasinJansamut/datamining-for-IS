@@ -16,3 +16,6 @@ This project is part of the course  CS701 Research Methodology in Computer Scien
 * **is-sk-64_PDPA.csv** ไฟล์ข้อมูลผู้บาดเจ็บ/เสียชีวิตจากฐานข้อมูล IS 7วันอันตรายปี 64 จำนวน 7,276 records
 * **test data.twb** สำหรับเช็คจำนวนผู้บาดเจ็บ / เสียชีวิต หรือตัวแปรอื่นๆที่ต้องการ สามารถเช็คข้อมูลจำนวนรวมได้รวดเร็ว 
 * **flow.tfl**  สำหรับการจัดเตรียมข้อมูล ก่อนนำมาใช้ ในไฟล์ประกอบไปด้วยขั้นตอนการ Clean และการ Filter เพื่อแบ่งชุดข้อมูลออกมาชุดๆสำหรับการนำไปเข้าโมเดล
+
+
+![Image](https://www.img.in.th/images/259f930fab35df56d8154b18a97b6baf.jpg)
